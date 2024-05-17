@@ -1,0 +1,32 @@
+html form
+Form Element:to used to create a form
+like a container for different type of input element .
+Input Element:
+input tag defines the field where the user can enter data.
+The type attribute determines what type of user input is taken.
+
+<input type="text" name="firstname">
+HTML Input Types:
+  1  Input Type Text:
+means a single-line text input field{
+<input type="text">}
+2 Input Type Password:
+a password field:input type="password"
+3 Input Type Submit:
+a button for submitting form data input type="submit
+4 Input Type Tel:
+used for input fields that should contain a telephone number.<input type="tel"...
+
+
+Attributes of form element:
+action attribute:
+the action to be performed when the form is submitted.
+Target Attribute:
+specifies where to display the response that is received after submitting the form.
+
+
+
+input element haii 
+type attribute
+The select Element:
+The select element defines a drop-down list

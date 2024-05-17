@@ -1,0 +1,8 @@
+ <textarea> element defines a multi-line input field :
+<input type="color"> is used for input fields that should contain a color.
+
+ a color picker can show up in the input field.to choees a color
+<input type="date"> is used for input fields that should contain a date.
+<input type="file"> defines a file-select field and a "Browse" button for file uploads.
+
+<input type="url"> is used for input fields that should contain a URL address.
